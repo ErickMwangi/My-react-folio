@@ -89,12 +89,12 @@ class Contact extends Component {
 
                 <div className="widget widget_tweets">
                    <h4 className="widget-title">Latest Tweets</h4>
-                   <ul id="twitter">
+                   <ul id="instagram">
                       <li></li>
               <li>
                  <span>
                     Why do Software Developers use Linux?
-                    <a href="#">https://twitter.com/tri2bal</a>
+                    <a href="https://www.instagram.com/your-instagram-page">https://www.instagram.com/reel/CuW5XtZIJcl/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==</a>
                  </span>
                  
               </li>
