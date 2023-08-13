@@ -35,4 +35,4 @@ Enjoy your new Resume Website
 You can reach me on `rickthetri20@gmail.com`
 
 # License 
-This project is licensed under the MIT Open Source license Copyright (c) 2022. 
+This project is licensed under the MIT Open Source license Copyright (c) 2023. 
