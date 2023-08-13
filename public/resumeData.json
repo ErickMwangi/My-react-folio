@@ -1,92 +1,76 @@
 {
   "main": {
-    "name": "Lorenah M",
+    "name": "Erick M",
     "occupation": "Software Engineer",
-    "description": "Results-oriented with more than 6 years of experience in sales and marketing. Well-versed in promoting object-oriented approaches to real-time software development and product marketing. Analytical and detail-oriented with deep knowledge in latest industry trends and advancements",
-    "image": "profilepic.jpg",
-    "bio": "I build unique custom apps & websites that convert visitors into customers who help businesses and people grow.When I'm not coding, I'm probably singing at my shows, advocating for overrall health, writing poetry, watching basketball, in the gym or goofing around on something inspired by Pablo Picasso.",
-    "contactmessage": "I'm always working on something, and often too excited about it to stop and update my portfolio. Feel free to reach out and see what I'm up to now. I also have major skills in sales, product marketing, vocal, and art design. If you have a project or creative need that I can help with, I am that guy! My specialty is full Android strategy, design and development. My interests, however, extend beyond the web and I love giving back to the community, helping people with brand promotion, art design and marketing.",
-    "email": "lorayne911@gmail.com",
-    "phone": "+254703668690",
+    "description": "I write code, design mock-ups and make apps. Im passionate about coding and i love creating things that live on the web. . Well-versed in promoting object-oriented approaches to real-time software development and product marketing. Analytical and detail-oriented with deep knowledge in latest industry trends and advancements",
+    "image": "Whitey.jpg",
+    "bio": "I build unique custom apps & websites that convert visitors into customers who help businesses and people grow.when not fingers-down coding , I love listening to music reading comic novels and spending time with family watching football.",
+    "contactmessage": "I'm always working on something, and often too excited about it to stop and update my portfolio. Feel free to reach out and see what I'm up to now. I also have major skills in sales, product marketing, and art design. If you have a project or creative need that I can help with, I am that guy! My specialty is full-stack strategy, design and development. My interests, however, extend beyond the web and I love giving back to the community, helping people with brand promotion, art design and marketing.",
+    "email": "rickthetri20@gmail.com",
+    "phone": "+254792829287",
     "address": {
       "street": "Boma Road",
       "city": "Nairobi",
       "state": "Kenya",
       "zip": "254"
     },
-    "website": "https://medium.com/@skylar_lorena",
-    "resumedownload": "",
+     "website": "",
+     "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/skylarlorenah",
+        "url": "http://facebook.com",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com/skylar_lorena",
+        "url": "http://twitter.com/tri2bal",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/lorenah-m-859883167/",
+        "url": "https://www.linkedin.com/in/erick-mwangi",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.coresume-websitem/skylar_lorena",
+        "url": "http://instagram.com",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/Skylar-Lorena",
+        "url": "https://github.com/ErickMwangi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Java, Ruby, Angular, React, Android, jQuery, JavaScript, Sinatra",
+    "skillmessage": " Python, React, uiux, jQuery, JavaScript",
     "education": [
       {
         "school": "Moringa School",
         "degree": "Software Engineering",
-        "graduated": "March 2021",
-        "description": "HTML, CSS, JavaScript, jQuery, Angular, Java Spark, Android"
-      },
-
-        {
-          "school": "Mema Secondary School",
-          "degree": "KCSE",
-          "graduated": "2012",
-          "description": "KCSE, B-"
-        },
-      {
-        "school": "Clanne Academy",
-        "degree": "KCPE",
-        "graduated": "2008",
-        "description": "KCPE, A"
+        "graduated": "Present-2023",
+        "description": "HTML, CSS, JavaScript, jQuery, uiux, Python, cloudinary"
       }
+
     ],
     "work": [
+
       {
-        "company": "Moringa School",
-        "title": "Software Development Technical Mentor",
-        "years": "Feb 2022 - Present",
-        "description": "Provide guidance, advice, feedback, and support to the students, serving variously as role model, teacher, counselor, advisor, sponsor, advocate, and ally, depending on the specific goals and objectives negotiated with the institution and students."
+        "company": "Eco-Shop",
+        "title": "Intern Developer",
+        "years": "Mar 2023 - May 2023",
+        "description": "Expound the project's specifications defined by the organization and then turn it into a tangible application."
       },
+
       {
-        "company": "NewLeaf Technologies",
-        "title": "Software Engineer",
-        "years": "Feb 2022 - Present",
-        "description": "Analyzing and modifying existing software as well as designing, constructing and testing end-user applications that meet user needs — all through software programming languages."
-      },
-    
-      {
-        "company": "My Movies Africa",
-        "title": "Intern developer",
-        "years": "Jan 2021 - March 2021",
+        "company": "I-Bus Booking",
+        "title": "Developer",
+        "years": "Jun 2023 - July 2023",
         "description": "Expound the project's specifications defined by the organization and then turn it into a tangible application."
       }
+
     ],
     "skills": [
       {
@@ -94,8 +78,8 @@
         "level": "80%"
       },
       {
-        "name": "Java",
-        "level": "65%"
+        "name": "Python",
+        "level": "75%"
       },
       {
         "name": "ReactJs",
@@ -110,43 +94,40 @@
         "level": "90%"
       },
       {
-        "name": "Ruby",
+        "name": "UIUX",
         "level": "55%"
       },
       {
         "name": "JavaScript",
         "level": "65%"
-      },
-      {
-        "name": "Android",
-        "level": "80%"
       }
+
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "My Movies Africa",
-        "category": "Android digital cinema extension providing Kenyan and African movies on demand.",
-        "image": "canadian-wanderlust.png",
-        "url": "https://www.mymovies.africa/"
+        "title": "I-BUS Booking",
+        "category": "This app is developed for users to have an easy booking and payment to bus commutes and experience comfortable and convenient travel",
+        "image": "I-bus.jpg",
+        "url": "https://i-bus.onrender.com/"
       },
       {
-        "title": "Cardoc",
-        "category": "This app is developed for NTSA to report traffic violators, monitor them, approve complaints and see how many complaints are registered for you(driver/owner).",
-        "image": "fury-fighting-gear.png",
-        "url": "https://github.com/Skylar-Lorena/Skoolor"
+        "title": "Countries",
+        "category": "This app is developed for users to have access and know different countries region, population and its capital city. Also the Flag of the country",
+        "image": "Countries.jpg",
+        "url": "https://countries-api-11.netlify.app/"
       },
       {
-        "title": "Skylar's-Pizzeria",
-        "category": "An interactive pizza ordering application that allows the user to select from multiple pizza options, including: size, crust, cheese, meat, and veggies.",
-        "image": "original-thai-food.png",
-        "url": "https://skylar-lorena.github.io/PIZZERIA-D-SKYLAR/"
+        "title": "Auto-mobile dealers",
+        "category": "This is a simple automobile dealing web app that allows users to experience advanced features for their preferred car: Type, model, features and transmission ",
+        "image": "Automobile.jpg",
+        "url": "https://github.com/ErickMwangi/Automobile-Dealers"
       },
       {
         "title": "My Resume Website",
         "category": "A React based resume website template",
-        "image": "resume-website.png",
+        "image": "Folio.jpg",
         "url": ""
       }
     ]
@@ -155,11 +136,11 @@
     "testimonials": [
       {
         "text": "Great developer, has client's needs at heart and puts them first",
-        "user": "QS. Emmanuel O."
+        "user": "Tyler Kirumba."
       },
       {
-        "text": "I thoroughly enjoyed my time working with her, and came to know Lorenah as a truly valuable asset to our team.",
-        "user": "Mathew Moira"
+        "text": "I thoroughly enjoyed my time working with him, and came to know Erick as a truly valuable asset to our team.",
+        "user": "Beatrice P."
       }
     ]
   }

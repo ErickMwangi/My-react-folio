@@ -10,7 +10,7 @@ class Contact extends Component {
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
+      // var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
@@ -94,17 +94,11 @@ class Contact extends Component {
               <li>
                  <span>
                     Why do Software Developers use Linux?
-                    <a href="#">https://twitter.com/Skylar_Lorena/status/1502864638748278784?s=20&t=WBdrrfgb-uI72buJxY8rCQ</a>
+                    <a href="#">https://twitter.com/tri2bal</a>
                  </span>
                  
               </li>
-              <li>
-                 <span>
-                    A <a href="https://t.co/UyjQAMKrDI">Medium Blog</a>  on Higher-Order-Functions in JavaScript
-                    <a href="#">https://twitter.com/Skylar_Lorena/status/1534867408221241345?s=20&t=WBdrrfgb-uI72buJxY8rCQ</a>
-                 </span>
-                
-              </li>
+
            </ul>
        </div>
      </aside>
