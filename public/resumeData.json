@@ -2,7 +2,7 @@
   "main": {
     "name": "Erick M",
     "occupation": "Software Engineer",
-    "description": "I write code, design mock-ups and make apps. Im passionate about coding and i love creating things that live on the web. . Well-versed in promoting object-oriented approaches to real-time software development and product marketing. Analytical and detail-oriented with deep knowledge in latest industry trends and advancements",
+    "description": "I write code, design mock-ups and make apps. I am passionate about coding and i love creating things that live on the web. . Well-versed in promoting object-oriented approaches to real-time software development and product marketing. Analytical and detail-oriented with deep knowledge in latest industry trends and advancements",
     "image": "Whitey.jpg",
     "bio": "I build unique custom apps & websites that convert visitors into customers who help businesses and people grow.when not fingers-down coding , I love listening to music reading comic novels and spending time with family watching football.",
     "contactmessage": "I'm always working on something, and often too excited about it to stop and update my portfolio. Feel free to reach out and see what I'm up to now. I also have major skills in sales, product marketing, and art design. If you have a project or creative need that I can help with, I am that guy! My specialty is full-stack strategy, design and development. My interests, however, extend beyond the web and I love giving back to the community, helping people with brand promotion, art design and marketing.",
@@ -107,6 +107,30 @@
   "portfolio": {
     "projects": [
       {
+        "title":"fallgame",
+        "category":"",
+        "image":"fallgame.jpg",
+        "url":"https://github.com/ErickMwangi/Fall-game"
+      },
+      {
+        "title":"Wordle",
+        "category":"",
+        "image":"wrlde.jpg",
+        "url":"https://wordle-puzzle.netlify.app/"
+      },
+      {
+        "title":"calendar",
+        "category":"",
+        "image":"k4kanali.jpg",
+        "url":"https://k4kanali.netlify.app/"
+      },
+      {
+        "title":"Simple to-do",
+        "category":"",
+        "image":"todo.jpg",
+        "url":"https://rickystodo.netlify.app/"
+      },
+      {
         "title": "I-BUS Booking",
         "category": "This app is developed for users to have an easy booking and payment to bus commutes and experience comfortable and convenient travel",
         "image": "I-bus.jpg",
@@ -149,3 +173,4 @@
     ]
   }
 }
+
